@@ -4,5 +4,6 @@ pandas
 pandas_ta
 matplotlib
 xgboost
+scikit-learn
 streamlit-autorefresh
 nltk
